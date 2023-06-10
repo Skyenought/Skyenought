@@ -1,6 +1,13 @@
-### Hi 👋, I'm Jiun Lee 😥
+<img
+   src='https://github.com/Skyenought/Skyenought/assets/70408571/88f13168-c058-479d-83ea-161fce31335b' 
+   width='210' height='217' /> &nbsp; &nbsp; &nbsp;
+   He is **MY BEST FRIEND**, NOT **ME** 🤣
+<br><br>
 
-I now have a **passion** for participating in open source projects.
+### Hi 👋, I'm Jiun Lee 
+
+
+I have a **passion** for participating in open source projects at now.
 <!--
 **Skyenought/Skyenought** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
