@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Jiun Lee 😥
 
+I now have a **passion** for participating in open source projects.
 <!--
 **Skyenought/Skyenought** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![skyenought's Status](https://github-readme-stats.vercel.app/api?username=skyenought&show_icons=true&bg_color=f6fcfe,d0f0fb,edfdf5,f0fff7&title_color=000000&text_color=848fd2)
