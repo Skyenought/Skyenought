@@ -4,7 +4,7 @@
    He is **MY BEST FRIEND**, NOT **ME** 🤣
 <br><br>
 
-### Hi 👋, I'm Jiun Lee 
+### Hi 👋, I'm *Jiun Lee*.
 ![View](https://komarev.com/ghpvc/?username=skyenought)
 
 I have a **passion** for participating in open source projects at now.
