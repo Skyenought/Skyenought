@@ -7,7 +7,9 @@
 ### Hi 👋, I'm *Jiun Lee*.
 ![View](https://komarev.com/ghpvc/?username=skyenought)
 
-I have a **passion** for participating in open source projects at now.
+~~I have a **passion** for participating in open source projects at now.~~
+
+I'm going to be a **metro driver** or a **maintenance worker**, the dream is going to say goodbye to me, goodbye to youth!
 <!--
 **Skyenought/Skyenought** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
