@@ -13,7 +13,8 @@
    Me 😅
 <br><br>
 
-I'm working as a labourer in a factory that produces styrofoam materials.
+~~I'm working as a labourer in a factory that produces styrofoam materials.~~
+I'm fired.
 <!--
 **Skyenought/Skyenought** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
