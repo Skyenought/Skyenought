@@ -6,13 +6,13 @@
 
 ### Hi 👋, I'm *Jiun Lee*.
 ![View](https://komarev.com/ghpvc/?username=skyenought)
-
+<!--
 <img
    src='https://github.com/Skyenought/Skyenought/assets/70408571/3366759e-b544-49ed-b064-c0e10af2a914'
 /> &nbsp; &nbsp; &nbsp;
    Me 😅
 <br><br>
-
+-->
 ~~I'm working as a labourer in a factory that produces styrofoam materials.~~
 I'm fired.
 <!--
